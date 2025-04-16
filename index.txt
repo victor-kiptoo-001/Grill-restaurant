@@ -1,4 +1,4 @@
-Grilli - Amazing & Delicious Food
+Grill - Amazing & Delicious Food
 
 This is a Restaurant html template made by codewithsadee
 
@@ -35,15 +35,15 @@ Contact
 
 Visit Us
 
-Restaurant St, Delicious City,
-London 9578, UK
+Kimumu
+Eldoret, Kenya
 
 Open: Everyday
 
-booking@grilli.com
+booking@grill.com
 
 Booking Request
-+88-123-123456
++254796681150
 
 Find A Table
 
@@ -115,7 +115,7 @@ Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem I
 
 Book Through Call
 
-+80 (400) 123 4567
++254796681150
 
 Read More
 
@@ -245,12 +245,12 @@ Contact Us
 
 Booking Request
 
-+88-123-123456
++24796681150
 
 Location
 
 Restaurant St, Delicious City,
-London 9578, UK
+Eldoret, Kenya
 
 Lunch Time
 
@@ -311,9 +311,9 @@ alt = grilli home
 
 Restaurant St, Delicious City, London 9578, UK
 
-booking@grilli.com
+booking@grill.com
 
-Booking Request : +88-123-123456
+Booking Request : +254796681150
 
 Open : 09:00 am - 01:00 pm
 
@@ -339,11 +339,11 @@ Twitter
 Youtube
 Google Map
 
-&copy; 2022 Grilli. All Rights Reserved | Crafted by
+&copy; 2025 Grill. All Rights Reserved | Crafted by
 
-https://github.com/codewithsadee
+https://victorkiptooportfolio.vercel.app/
 
-codewithsadee
+Victor Kiptoo
 
 
 
@@ -440,7 +440,7 @@ Monday to Sunday
 5.30 pm - 11.30 pm
 
 Contact Us
-Restaurant St, Delicious City, London 9578, UK
+Grill 
 
-+88-123-123456
++254796681150
 reservation@restro.com
