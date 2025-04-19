@@ -79,7 +79,6 @@ window.addEventListener("scroll", function () {
 });
 
 
-
 /**
  * HERO SLIDER
  */
