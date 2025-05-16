@@ -109,7 +109,7 @@ alt = shape
 
 Our Story
 
-Every Fla vor Tells a Story
+Every Flavor Tells a Story
 
 Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book It has survived not only five centuries, but also the leap into.
 
@@ -135,8 +135,8 @@ Lobster Tortellini
 
 Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type.
 
-$40.00
-$20.00
+Ksh 40.00
+Ksh 30.00
 
 View All Menu
 
@@ -153,21 +153,21 @@ alt = Greek Salad
 Greek Salad
 
 Seasonal
-$25.50
+Ksh 25.50
 Tomatoes, green bell pepper, sliced cucumber onion, olives, and feta cheese.
 
 2.
 alt = Lasagne
 Lasagne
 
-$40.00
+Ksh 40.00
 Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices
 
 3.
 alt = Butternut Pumpkin
 Butternut Pumpkin
 
-$10.00
+Ksh 10.00
 Typesetting industry lorem Lorem Ipsum is simply dummy text of the priand.
 
 4.
@@ -182,14 +182,14 @@ Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices.
 alt = Olivas Rellenas
 Olivas Rellenas
 
-$25.00
+Ksh 25.00
 Avocados with crab meat, red onion, crab salad stuffed red bell pepper and green bell pepper.
 
 6.
 alt = Opu Fish
 Opu Fish
 
-$49.00
+Ksh 9.00
 Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices
 
 During winter daily from 7:00 pm to 9:00 pm
